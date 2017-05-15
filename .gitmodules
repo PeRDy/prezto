@@ -21,4 +21,4 @@
 	url = https://github.com/tarruda/zsh-autosuggestions
 [submodule "modules/prompt/external/perdy"]
 	path = modules/prompt/external/perdy
-	url = git@github.com:PeRDy/zsh-prompt-perdy.git
+	url = https://github.com/PeRDy/zsh-prompt-perdy.git
